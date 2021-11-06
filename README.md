@@ -28,4 +28,6 @@ Srpski
            pri korišćenju svih algoritama smanjuje pri povećanju broja antena. Prosečna greška u slučaju tri antene i LM algoritma iznosila je 15 cm, a sa 5 
            antena 6 cm. Poređenjem algoritama zaključuje se da je LM algoritam najbolji, a da se trilateracijom (greška 8 cm) dobijaju bolji rezultati nego GNA
            ili opadajućim gradijentom (11 cm i 14 cm, respektivno).
-        
+
+
+![grafički apstrakt](https://user-images.githubusercontent.com/57879705/140623597-86c4423b-8224-4426-acdc-e239bd0a1d56.png)
