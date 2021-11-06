@@ -29,4 +29,4 @@ Srpski
            antena 6 cm. Poređenjem algoritama zaključuje se da je LM algoritam najbolji, a da se trilateracijom (greška 8 cm) dobijaju bolji rezultati nego GNA
            ili opadajućim gradijentom (11 cm i 14 cm, respektivno).
 
-[lokalizacija-0.3.pdf](https://github.com/nedeljkovicmajaa/RF-localization/files/7491246/lokalizacija-0.3.pdf)
+![lokalizacija-0 3](https://user-images.githubusercontent.com/57879705/140623730-2af34905-eb15-45f3-89fa-2968431c9515.jpg)
