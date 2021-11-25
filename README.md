@@ -2,7 +2,7 @@
            
 English        
           
-           The goal of this project is finding unknown position of the transmitter in space by analysing radio wave characteristics at receiver side.
+           The goal of this project is to find the unknown position of the transmitter in space by analyzing radio wave characteristics at the receiver side.
            The aparature was consisted  of one transmitter with emission frequency of 433MHz and 3-5 receiving antennas. Average values of voltage induced 
            by the electromagnetic field of the transmitter were measured. Linear dependence of receiver power from voltage squared has been noted, which 
            gave us possibility to use all the methods that analyse power characteristics. Measures were held on conducting metal table due to which, by the 
